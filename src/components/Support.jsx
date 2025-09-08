@@ -12,24 +12,24 @@ export const Support = () => {
                 <div className='w-full md:w1/2 p-8 ml-16'>
                     <h1 className='text-4xl md:text-5xl text-dark font-bold mb-6'>24/7 Support for Your Success</h1>
 
-                    <ul className='space-y-4 '>
+                   <ul className='space-y-4 '>
                         <li className='flex items-center gap-4'>
-                            <FaCheckCircle className='text-[#9824f4] -mt-3' />
+                          <FaCheckCircle className='text-[#9824f4] text-lg md:text-xl mt-1 flex-shrink-0' />
                             <span className='block max-w-md'>Ensure support ia available including weekends and holidays.</span>
                         </li>
 
                          <li className='flex items-center gap-4'>
-                            <FaCheckCircle className='text-[#9824f4] -mt-3' />
+                          <FaCheckCircle className='text-[#9824f4] text-lg md:text-xl mt-1 flex-shrink-0' />
                             <span className='block max-w-md'>Ensure Implement a CDN to deliver content quickly to users worldwide.</span>
                         </li>
 
                          <li className='flex items-center gap-4'>
-                            <FaCheckCircle className='text-[#9824f4] -mt-3' />
+                            <FaCheckCircle className='text-[#9824f4] text-lg md:text-xl mt-1 flex-shrink-0' />
                             <span className='block max-w-md'>Offer various support channels such as live chat, emai, phone, and a ticketing system.</span>
                         </li>
 
                          <li className='flex items-center gap-4'>
-                            <FaCheckCircle className='text-[#9824f4] -mt-3' />
+                            <FaCheckCircle className='text-[#9824f4] text-lg md:text-xl mt-1 flex-shrink-0' />
                             <span className='block max-w-md'>Aim for rapid response times to customer inquiries to minimize downtime and frustration.</span>
                         </li>
                     </ul>
