@@ -7,7 +7,7 @@ export const Support = () => {
         <div className='container ma-auto px-6'>
             <div className='flex flex-col md:flex-row items-center'>
                 <div className='w-full md:w1/2 mt-15 rounded-2xl overflow-hidden'>
-                    <img src="public/images/Support for Your Success.png" alt="" />
+                    <img src="/images/Support for Your Success.png" alt="" />
                 </div>
                 <div className='w-full md:w1/2 p-8 ml-16'>
                     <h1 className='text-4xl md:text-5xl text-dark font-bold mb-6'>24/7 Support for Your Success</h1>
