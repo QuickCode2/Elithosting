@@ -20,7 +20,7 @@ const About = () => {
         </div>
 
         <div className='md:h-1/2'>
-          <img className='h-auto w-[1000px]  object-cover' src="/public/images/About/About ElitHosting.png" alt="" />
+          <img className='h-auto w-[1000px]  object-cover' src="/images/About/About ElitHosting.png" alt="" />
         </div>
         </div>
 
@@ -32,17 +32,17 @@ const About = () => {
 
         <div className='max-w-4xl md:mx-auto mx-10 grid grid-cols-1 md:grid-cols-3 gap-20'>
           <div className='text-center w-65 shadow rounded-2xl'>
-            <img className='object-cover w-full h-80 mb-4 rounded-2xl' src="/public/images/About/Alice Johnson.png" alt="Team Member 1" />
+            <img className='object-cover w-full h-80 mb-4 rounded-2xl' src="/images/About/Alice Johnson.png" alt="Team Member 1" />
             <h2 className='text-2xl text-dark font-semibold'>Alice Johnson</h2>
             <p className='text-dark/80'>CEO & Founder</p>
           </div>
           <div className='text-center w-65 shadow rounded-2xl'>
-            <img className='object-cover w-full h-80 mb-4 rounded-2xl' src="public/images/About/Angila.png" alt="Team Member 2" />
+            <img className='object-cover w-full h-80 mb-4 rounded-2xl' src="/images/About/Angila.png" alt="Team Member 2" />
             <h2 className='text-2xl text-dark font-semibold'>Angila</h2>
             <p className='text-dark/80'>Marketing</p>
           </div>
           <div className='text-center w-65 shadow rounded-2xl'>
-            <img className='object-cover w-full h-80 mb-4 rounded-2xl' src="/public/images/About/Michel Anderson.png" alt="Team Member 3" />
+            <img className='object-cover w-full h-80 mb-4 rounded-2xl' src="/images/About/Michel Anderson.png" alt="Team Member 3" />
             <h2 className='text-2xl text-dark font-semibold'>Michel Anderson</h2>
             <p className='text-dark/80'>Digital Marketer</p>
           </div>
